@@ -1,5 +1,7 @@
 # Local-linear-fitting-based matting approach for joint hole filling and depth upsampling for RGB-D images
 
+![Sample Results](./results/sample_results.png)
+
 This repository contains MATLAB implementation associated with the paper
 
 "Local-linear-fitting-based matting approach for joint hole filling and depth upsampling for RGB-D images"
@@ -7,8 +9,6 @@ This repository contains MATLAB implementation associated with the paper
 Yanfu Zhang, [Li Ding](https://www.hajim.rochester.edu/ece/lding6), and [Gaurav Sharma](http://www2.ece.rochester.edu/~gsharma/)
 
 Journal of Electronic Imaging (JEI), 2019
-
-![Sample Results](./results/sample_results.png)
 
 ##  Dependencies
 Requires all of the following:
