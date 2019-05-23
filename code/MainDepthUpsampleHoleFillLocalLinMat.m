@@ -44,3 +44,4 @@ fprintf('dataset: %s, MAE: %.4f\n', opt.dataset,mae)
 save_name = ['result_', opt.dataset];
 save(fullfile('../results/',save_name),'esti_depth')
 imwrite(esti_depth_norm,fullfile('../results/',[save_name,'.png']))
+fprintf('Upsampled and hole-filled depth map has been saved in: ../results/%s.png\n', save_name)
