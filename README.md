@@ -17,7 +17,9 @@ Requires all of the following:
 * MATLAB Computer Vision Toolbox
 
 ## Running the Program
-We recommend using the CodeOcean version of the program, which can be run using CodeOcean's built in interface. The code is available at:
+We recommend using the CodeOcean version of the program, which can be run using CodeOcean's built in interface. The code is available [here](https://doi.org/10.24433/CO.5593522.v1).
+
+
 
 
 ## Input and Output Data:
