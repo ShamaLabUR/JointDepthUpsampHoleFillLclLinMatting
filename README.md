@@ -41,23 +41,23 @@ The ToF dataset has high levels of noise and the proposed approach is not direct
 
 Sample datasets are included with this code to illustrate the operation and to allow the corresponding results in the paper to be reproduced. Only one example dataset is included with the code distribution; users should obtain the full images from the original sources, whom we thank for providing the data.
 
-### The "Art" RGB Image and Accompnying Depth Image
+### The "Art" RGB Image and Accompanying Depth Image
 The "Art" RGB image and accompanying depth image are obtained from the Middlebury (stereo) dataset which  provides high resolution RGB images of multiple views and corresponding disparity maps. The relevant papers are:
 
-D. Scharstein and R. Szeliski, “High-accuracy stereo depth maps using structured light,” in IEEE Intl. Conf. Comp. Vision, and Pattern Recog., 195–202 (2003).
+D. Scharstein and R. Szeliski, “High-accuracy stereo depth maps using structured light,” in IEEE Intl. Conf. Comp. Vision, and Pattern Recog., (2003).
 
-D. Scharstein and C. Pal, “Learning conditional random fields for stereo,” in IEEE Intl. Conf. Comp. Vision, and Pattern Recog., 1–8 (2007).
+D. Scharstein and C. Pal, “Learning conditional random fields for stereo,” in IEEE Intl. Conf. Comp. Vision, and Pattern Recog., (2007).
 
-D. Scharstein and C. Pal, “Learning conditional random fields for stereo,” in IEEE Intl. Conf. Comp. Vision, and Pattern Recog., 1–8 (2007).
+H. Hirschmüller and D. Scharstein, “Evaluation of cost functions for stereo matching,” in IEEE Intl. Conf. Comp. Vision, and Pattern Recog., (2007).
 
-D. Scharstein and C. Pal, “Learning conditional random fields for stereo,” in IEEE Intl. Conf. Comp. Vision, and Pattern Recog., 1–8 (2007).
+D. Scharstein, H. Hirschmüller, Y. Kitajima, G. Krathwohl, N. Nesic, X. Wang, and P. Westling, “High-resolution stereo datasets with subpixel-accurate ground truth,” in German Conf. Pattern Recognition, (2014).
 
 The full "Middlebury dataset" used for obtaining the quantitative results reported in the paper were obtained from (URL is up-to-date as of the publication of the paper):
 
 http://vision.middlebury.edu/stereo/data/scenes2005/
 
 
-### The "Shark" Intensity Image and Accompnying Depth Image
+### The "Shark" Intensity Image and Accompanying Depth Image
 The "Shark" intensity image and corresponding depth map were obtained from the "ToF dataset" provided with the following publication: 
 
  D. Ferstl, C. Reinbacher, R. Ranftl, et al., “Image guided depth upsampling using anisotropic total generalized variation,” in IEEE Intl. Conf. Comp. Vision., 993–1000 (2013).
